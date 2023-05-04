@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Andrew P. Michelson, MD
+    tagline: Critical Care Physician and Clinical Informatician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: amichels@wustl.edu
+    phone: 
+    timezone: America/Chicago Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: andrewmichelson.github.io #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: AndrewMichelson
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@apmichelson'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,22 +35,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Pulmonary & Critical Care Medicine
           link:
 
-        - item: Snowboarding
+        - item: Digital health technology
           link:
 
-        - item: Cooking
+        - item: AI/ML
           link:
 
 career-profile:
